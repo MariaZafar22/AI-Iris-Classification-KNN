@@ -1,7 +1,7 @@
 # AI-Based Iris Flower Classification Using KNN
 
 ## Project Overview
-This project is developed as part of the DecodeLabs Artificial Intelligence Internship – Project 2: Data Classification Using AI.
+This project is developed as part of the  Artificial Intelligence Internship 
 
 The project demonstrates a basic supervised learning classification pipeline using the Iris dataset and the K-Nearest Neighbors (KNN) algorithm.
 
@@ -63,7 +63,3 @@ The project also generates:
 
 ## Conclusion
 This project demonstrates the fundamental supervised learning workflow for data classification. The KNN model successfully classified Iris flower species with **96.67% accuracy**, showing strong performance on the test dataset.
-
-## Internship
-**DecodeLabs Artificial Intelligence Internship – Project 2**
-**Project: Data Classification Using AI**
